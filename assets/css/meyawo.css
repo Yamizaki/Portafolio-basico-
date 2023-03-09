@@ -14,9 +14,9 @@
 */
 @import url("https://fonts.googleapis.com/css?family=Baloo+Paaji|Open+Sans:300,300i,400,400i,600,600i,700,700i");
 :root {
-  --blue: #1e549f;
-  --indigo: #695aa6;
-  --purple: #6f42c1;
+  --blue: #000000;
+  --indigo: #000000;
+  --purple: #212122;
   --pink: #e83e8c;
   --red: #ec185d;
   --orange: #ff6d02;
@@ -162,13 +162,13 @@ sup {
 }
 
 a {
-  color: #695aa6;
+  color: #000000;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #493f75;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -221,7 +221,7 @@ table {
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #6c757d;
+  color: #000000;
   text-align: left;
   caption-side: bottom;
 }
@@ -444,7 +444,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color: #fcf8e3;
+  background-color: #000000;
 }
 
 .list-unstyled {
@@ -478,7 +478,7 @@ mark,
 .blockquote-footer {
   display: block;
   font-size: 80%;
-  color: #6c757d;
+  color: #000000;
 }
 
 .blockquote-footer::before {
@@ -492,8 +492,8 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
-  border: 1px solid #dee2e6;
+  background-color: #000000;
+  border: 1px solid #000000;
   border-radius: 0.25rem;
   max-width: 100%;
   height: auto;
@@ -526,7 +526,7 @@ a > code {
 kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
-  color: #fff;
+  color: #000000;
   background-color: #212529;
   border-radius: 0.2rem;
 }
